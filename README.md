@@ -65,8 +65,10 @@ High Feasibility
 🔴 Low Priority
 Lower Impact
 Lower Feasibility
-
 Bubble Size represents the overall Project Size.
+
+### Dashboard Preview:
+![Dashboard Preview](
 
 
 
