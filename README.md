@@ -23,7 +23,7 @@ This dashboard was built using the following tools and technologies:
 Self-created sample business dataset for portfolio purposes.
 The dataset contains project-level information.
 
-### Features / Highlights
+### Features / Highlights:
 📌 Business Problem
 
 Organizations frequently manage numerous projects while operating under limited budgets, time, and resources.
@@ -51,49 +51,24 @@ Support strategic planning and resource allocation.
 The main Bubble Chart categorizes projects into four strategic quadrants:
 
 🟢 Quick Wins
-
 High Impact
 High Feasibility
 
 🔵 Major Projects
-
 High Impact
 Lower Feasibility
 
 🟡 Nice to Have
-
 Lower Impact
 High Feasibility
 
 🔴 Low Priority
-
 Lower Impact
 Lower Feasibility
 
 Bubble Size represents the overall Project Size.
 
-📋 Project Data Table
 
-The dashboard includes a detailed project table displaying:
-
-Project Name
-Impact Score
-Feasibility Score
-Project Size
-
-
-###💡 Skills Demonstrated
-Microsoft Excel Dashboard Development
-Data Visualization
-Business Intelligence
-Analytical Thinking
-Dashboard Design
-Strategic Project Analysis
-Bubble Chart Creation
-Conditional Formatting
-Business Storytelling
-
-###📸 Dashboard Preview
 
 
 
