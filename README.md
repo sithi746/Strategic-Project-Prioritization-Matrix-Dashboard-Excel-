@@ -70,7 +70,7 @@ Bubble Size represents the overall Project Size.
 ### Dashboard Preview:
 ![Dashboard Preview](https://github.com/sithi746/Strategic-Project-Prioritization-Matrix-Dashboard-Excel-/blob/main/Project%20Prioritization%20Matrix.png)
 
-###📌 Conclusion:
+### 📌Conclusion:
 This dashboard provides a clear framework for prioritizing projects based on Impact, Feasibility, and Project Size, enabling more effective planning and strategic decision-making.
 
 📈 Business Decisions
