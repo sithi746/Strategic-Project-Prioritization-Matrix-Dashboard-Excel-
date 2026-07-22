@@ -68,7 +68,7 @@ Lower Feasibility
 Bubble Size represents the overall Project Size.
 
 ### Dashboard Preview:
-![Dashboard Preview](
+![Dashboard Preview](https://github.com/sithi746/Strategic-Project-Prioritization-Matrix-Dashboard-Excel-/blob/main/Project%20Prioritization%20Matrix.png)
 
 
 
